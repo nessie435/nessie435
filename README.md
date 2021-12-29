@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nessie435
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python
